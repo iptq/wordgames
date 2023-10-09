@@ -8,8 +8,8 @@ import {
   FileRoutes,
   Scripts,
   ErrorBoundary,
-} from 'solid-start';
-import { Suspense } from 'solid-js';
+} from "solid-start";
+import { Suspense } from "solid-js";
 
 export default function Root() {
   return (
